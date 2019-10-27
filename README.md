@@ -5,16 +5,16 @@
   <img src="https://i.imgur.com/7DO8G53.png" width="350" alt="accessibility text">
 </p>
 
-This application was made to OpenGL's university course.
+This application was made for the OpenGL's university course.
 
 Made by Luis Felipe Pereira and Renata Mottin.
 
 ## Getting Started
-All you need to do, it is run the .exe that cames in the project folder.
+All you need to do, it is run the .exe that is located in the project folder.
 
 ## Commands
 
-* **WASD or Arrows:** Navigation by the cells
+* **WASD or Arrows:** Navigation between the cells
 
 * **1-9 numpad:** Changes the brush color
 

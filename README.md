@@ -24,6 +24,8 @@ All you need to do, it is run the .exe that cames in the project folder.
 
 * **Backspace or Left mouse button:** Clean the screen
 
+* **Mouse Scroll:** Next color in the palette
+
 * **Enter:** No grid mode
 
 * **1-3:** Change grid size (8x8, 12x12, 16x16)

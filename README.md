@@ -7,7 +7,7 @@
 
 This application was made to OpenGL's university course.
 
-Made by Luis Felipe Pereira and Renata D'elia.
+Made by Luis Felipe Pereira and Renata Mottin.
 
 ## Getting Started
 All you need to do, it is run the .exe that cames in the project folder.

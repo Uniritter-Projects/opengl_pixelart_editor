@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\perei\desktop\teste\glfw_viewports\helloglfw\source.cpp(278): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\perei\desktop\teste\glfw_viewports\helloglfw\source.cpp(315): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+c:\users\perei\desktop\teste\glfw_viewports\helloglfw\source.cpp(303): warning C4101: 'ratio': variável local não referenciada
+  HelloGLFW.vcxproj -> C:\Users\perei\Desktop\Teste\GLFW_ViewPorts\Debug\HelloGLFW.exe
